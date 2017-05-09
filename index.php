@@ -3,4 +3,5 @@
 	function fn2(){ echo "5555";}
 	function fn3(){ echo "5555";}
 	22222222;
+	555522;
 ?>
